@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+outbox/
+review_schedule.xlsx
+.env
+.venv/
+# real student data - never commit
+Student_Task_List.xlsx
+!data/Student_Task_List.xlsx
